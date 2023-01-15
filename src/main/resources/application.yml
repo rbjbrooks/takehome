@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: "takehome"
+  webflux:
+    base-path: "/takehomeapp"
+
+takehome:
+  webclient:
+    baseurl: "https://countries.trevorblades.com/graphql"
+
+logging:
+  level:
+    root: warn
