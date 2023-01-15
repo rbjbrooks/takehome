@@ -8,6 +8,7 @@
 ### Build and Run
 - ensure you Java 17, Docker, and Gradle installed
 - ensure you have internet access
+- clone repository https://github.com/rbjbrooks/takehome to local file system
 - cd to project directory
 - at command prompt: (cleans and builds project)
 ```
